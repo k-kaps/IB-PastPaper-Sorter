@@ -1,0 +1,14 @@
+1.  1  9
+ 1P. 1
+2.  6
+ 2P. 3
+3.  4  10  8
+ 3P. 5
+4.  2
+ 4P. 7
+5.  9
+ 5P. 8
+6.  5
+ 6P. 9
+path:C:/Users/Karan Kapoor/OneDrive/Desktop/IB PAST PAPERS/CHEMISTRY/2010 - 1.pdf
+total:6
