@@ -1,0 +1,18 @@
+1.  2  5
+ 1P. 2
+2.  7  12
+ 2P. 5
+3.  4  9
+ 3P. 9
+4.  3
+ 4P. 11
+5.  6  10
+ 5P. 13
+6.  4  9
+ 6P. 15
+7.  6  10
+ 7P. 18
+8.  11
+ 8P. 20
+path:C:/Users/Karan Kapoor/OneDrive/Desktop/IB PAST PAPERS/PHYSICS/2019 - 1.pdf
+total:8

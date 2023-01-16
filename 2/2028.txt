@@ -1,0 +1,22 @@
+1.  1  2
+ 1P. 1
+2.  3
+ 2P. 3
+3.  5
+ 3P. 5
+4.  3
+ 4P. 7
+5.  11
+ 5P. 9
+6.  2
+ 6P. 11
+7.  9  5  7
+ 7P. 12
+8.  8  10
+ 8P. 19
+9.  2  9
+ 9P. 25
+10.  9  7
+ 10P. 30
+path:C:/Users/Karan Kapoor/OneDrive/Desktop/IB PAST PAPERS/PHYSICS/2013 - 3.pdf
+total:10
